@@ -1,0 +1,11 @@
+[build]
+  # Forzar a Netlify a usar la raíz del repositorio como base
+  base = ""
+  publish = "dist"
+  command = "npm run build"
+
+# Configuración para que las rutas de React (SPA) no den error 404 al recargar la página
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

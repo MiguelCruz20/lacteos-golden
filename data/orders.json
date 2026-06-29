@@ -1,0 +1,84 @@
+[
+  {
+    "id": "PED-7890",
+    "fecha": "2026-06-25",
+    "hora": "15:20",
+    "nombre": "Ana Gabriela Mendoza",
+    "direccion": "Colonia Los Andes, 12 Calle, San Pedro Sula",
+    "telefono": "+504 9482-1102",
+    "productos": [
+      {
+        "id": "prod-1",
+        "nombre": "Queso Semicurado",
+        "cantidad": 2,
+        "presentacion": "Libra",
+        "precioUnitario": 82,
+        "subtotal": 164
+      },
+      {
+        "id": "prod-2",
+        "nombre": "Mantequilla Crema",
+        "cantidad": 1,
+        "presentacion": "Media",
+        "precioUnitario": 21,
+        "subtotal": 21
+      }
+    ],
+    "metodoPago": "Efectivo",
+    "comprobante": null,
+    "total": 185,
+    "estado": "Entregado"
+  },
+  {
+    "id": "PED-7891",
+    "fecha": "2026-06-25",
+    "hora": "18:10",
+    "nombre": "Carlos Roberto Suazo",
+    "direccion": "Barrio Guamilito, 5 Avenida, San Pedro Sula",
+    "telefono": "+504 8871-3321",
+    "productos": [
+      {
+        "id": "prod-4",
+        "nombre": "Quesillo",
+        "cantidad": 3,
+        "presentacion": "Libra",
+        "precioUnitario": 56,
+        "subtotal": 168
+      },
+      {
+        "id": "prod-8",
+        "nombre": "Queso Frijolero",
+        "cantidad": 1,
+        "presentacion": "Libra",
+        "precioUnitario": 81,
+        "subtotal": 81
+      }
+    ],
+    "metodoPago": "Transferencia",
+    "comprobante": "https://images.unsplash.com/photo-1554415707-6e8cfc93fe23?w=400&auto=format&fit=crop&q=60",
+    "total": 249,
+    "estado": "Preparando"
+  },
+  {
+    "id": "PED-7892",
+    "fecha": "2026-06-26",
+    "hora": "09:45",
+    "nombre": "María José Alvarado",
+    "direccion": "Colonia Jardines del Valle, San Pedro Sula",
+    "telefono": "+504 3155-9008",
+    "productos": [
+      {
+        "id": "prod-5",
+        "nombre": "Cuajada Fresca",
+        "cantidad": 2,
+        "presentacion": "Libra",
+        "precioUnitario": 60,
+        "subtotal": 120
+      }
+    ],
+    "metodoPago": "Transferencia",
+    "comprobante": "https://images.unsplash.com/photo-1554415707-6e8cfc93fe23?w=400&auto=format&fit=crop&q=60",
+    "total": 120,
+    "estado": "Pendiente"
+  }
+]
