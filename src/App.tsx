@@ -12,7 +12,7 @@ import {
 // porque GitHub Pages no puede correr el servidor Express. En desarrollo local o en Render
 // mismo, usamos rutas relativas (vacío) ya que el backend está en el mismo dominio.
 const API_BASE = window.location.hostname.includes('github.io')
-  ? 'https://lacteos-golden-xpg4.onrender.com'
+  ? 'https://lacteos-golden-5gzg.onrender.com'
   : '';
 
 // Types
