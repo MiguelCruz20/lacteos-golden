@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://miguelcruz20.github.io/lacteos-golden/sitemap.xml
